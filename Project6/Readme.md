@@ -1,1 +1,1 @@
-
+Creatures and it's subclasses are given an attack struct. with attack name, type and dmg. Attacks are unique to creatures, and type of attack and dmg of the attack may differ depending on the attributes of the creature. Users are given a prompted with the availible attacks for their creature when they call SetAttack. Invalid inputs will prompt the user for a proper input.
