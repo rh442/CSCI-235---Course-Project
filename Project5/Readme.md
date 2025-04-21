@@ -1,1 +1,1 @@
-
+Creates a Linked List of Ingredients, each node has ingredient name, quantity, and recipe. A query to be done to see if an Ingredient is in the Linked List or if it can be created, if the ingredients in its recipes can be made or are present.
